@@ -19,11 +19,11 @@
       </li>
     </div>
     <div class="btnEnd">
-      <RouterLink to="/eins">
-        <button class="btn btn-danger fs-5">Back</button>
-      </RouterLink>
       <RouterLink to="/drei">
         <button class="btn btn-success fs-5">Next</button>
+      </RouterLink>
+      <RouterLink to="/eins">
+        <button class="btn btn-danger fs-5 mx-1">Back</button>
       </RouterLink>
     </div>
   </div>

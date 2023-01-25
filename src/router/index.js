@@ -24,11 +24,6 @@ const router = createRouter({
       component: () => import('../views/DreiView.vue'),
     },
     {
-      path: '/vier',
-      name: 'Vier',
-      component: () => import('../views/VierView.vue'),
-    },
-    {
       path: '/ende',
       name: 'Ende',
       component: () => import('../views/EndeView.vue'),
