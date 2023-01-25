@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h2 class="text-center fs-1 my-5 fw-bold text-light">
-      <span class="u1">All</span><span class="u2">gem</span><span class="u3">eine</span>
+      <span class="u1">All</span><span class="u2">gem</span><span class="u3">eine </span>
       <span class="u4">Infos</span>
     </h2>
     <div class="text-light">
