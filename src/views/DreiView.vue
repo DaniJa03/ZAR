@@ -10,7 +10,7 @@
       <li class="u2 fs-2 my-5">
         <span class="text-light">Yevgeny Prigozhin</span>
       </li>
-      <li class="u3 fs-2 my-5"><span class="text-light">Tätig in ZAR</span></li>
+      <li class="u3 fs-2 my-5"><span class="text-light">Tätig in Afrika</span></li>
       <li class="u4 fs-2 my-5">
         <span class="text-light">Umstrittene Gruppe</span>
       </li>
