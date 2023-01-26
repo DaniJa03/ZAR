@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h2 class="text-center fs-1 my-5 fw-bold text-light">
-      <span>Söldnergruppe Wagner</span>
+      <span class="u1">Söl</span><span class="u2">dner</span><span class="u3">gruppe</span> <span class="u4">Wagner</span>
     </h2>
     <div class="text-light">
       <li class="u1 fs-2 my-5">
